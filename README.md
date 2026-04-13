@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .gives one-word domains from Uniqu
 
 **Public extract:** 9,606 rows · **Live catalog:** 9,606 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/gives`  
 **Best for:** founders, investors, studios
 
@@ -70,14 +70,14 @@ print(df.head())
 | ace.gives       | available | $5.99     | $40.99        | 88             | 57     | 3      | name.com          |
 | code.gives      | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc       |
 | cloud.gives     | premium   | $85.80    | $85.80        | 70             | 59     | 5      | namecheap         |
-| alpha.gives     | available | $5.99     | $40.99        | 90             | 54     | 5      | name.com          |
+| zero.gives      | available | $5.99     | $40.99        | 112            | 53     | 4      | name.com          |
 | the.gives       | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 18 |
 | business.gives  | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap         |
-| zero.gives      | available | $5.99     | $40.99        | 112            | 53     | 4      | name.com          |
+| alpha.gives     | available | $5.99     | $40.99        | 90             | 53     | 5      | name.com          |
 | echo.gives      | resell    | —         | —             | 68             | 57     | 4      | NameCheap, Inc.   |
 | art.gives       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap         |
 | true.gives      | available | $5.99     | $40.99        | 86             | 52     | 4      | name.com          |
-| love.gives      | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC  |
+| love.gives      | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC  |
 | digital.gives   | premium   | $82.50    | $82.50        | 100            | 50     | 7      | name.com          |
 | real.gives      | available | $37.98    | —             | 78             | 49     | 4      | namecheap         |
 | human.gives     | resell    | —         | —             | 74             | 51     | 5      | GoDaddy.com, LLC  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
