@@ -66,10 +66,10 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | seventeen.gives | available | $5.99     | $40.99        | 84             | 62     | 9      | name.com          |
 | wise.gives      | resell    | —         | —             | 98             | 72     | 4      | NameCheap, Inc.   |
-| free.gives      | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com          |
+| cloud.gives     | premium   | $85.80    | $85.80        | 70             | 59     | 5      | namecheap         |
 | ace.gives       | available | $5.99     | $40.99        | 88             | 57     | 3      | name.com          |
 | code.gives      | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc       |
-| cloud.gives     | premium   | $85.80    | $85.80        | 70             | 59     | 5      | namecheap         |
+| free.gives      | premium   | $82.50    | $82.50        | 88             | 57     | 4      | name.com          |
 | zero.gives      | available | $5.99     | $40.99        | 112            | 53     | 4      | name.com          |
 | the.gives       | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 18 |
 | business.gives  | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap         |
@@ -78,11 +78,11 @@ print(df.head())
 | art.gives       | premium   | $260      | $260          | 90             | 52     | 3      | namecheap         |
 | true.gives      | available | $5.99     | $40.99        | 86             | 52     | 4      | name.com          |
 | love.gives      | resell    | —         | —             | 86             | 51     | 4      | GoDaddy.com, LLC  |
-| digital.gives   | premium   | $82.50    | $82.50        | 100            | 50     | 7      | name.com          |
-| real.gives      | available | $37.98    | —             | 78             | 49     | 4      | namecheap         |
+| digital.gives   | premium   | $82.50    | $82.50        | 100            | 49     | 7      | name.com          |
+| simple.gives    | available | $5.99     | $40.99        | 128            | 49     | 6      | name.com          |
 | human.gives     | resell    | —         | —             | 74             | 51     | 5      | GoDaddy.com, LLC  |
 | all.gives       | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com          |
-| simple.gives    | available | $5.99     | $40.99        | 128            | 48     | 6      | name.com          |
+| real.gives      | available | $37.98    | —             | 78             | 49     | 4      | namecheap         |
 | game.gives      | resell    | —         | —             | 120            | 50     | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
