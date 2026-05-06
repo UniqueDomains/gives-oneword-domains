@@ -408,6 +408,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 22e0029f-68de-4ced-9a38-af1ea23d1414,thedamn.gives,available,5.99,,38,1,8,name.com,,
 2304047e-6aad-48d0-a676-996139f86aa3,Xrays.gives,available,37.98,,52,5,6,namecheap,,
 23053c70-a563-43c4-843a-b437a1a2069b,keepoutof.gives,available,5.99,,68,0,11,name.com,,
+23082a20-e754-4dda-a39b-541ca0339608,explorer.gives,premium,,,78,28,8,,,
 231e0200-3a0f-405a-ad5a-a9ff8546cf1a,penalties.gives,available,5.99,,68,3,9,name.com,,
 2324d819-b4b5-435f-a3fe-d806f6969675,justices.gives,available,5.99,,52,6,8,name.com,,
 23271485-f03e-4622-bdd3-4fa2d294fefb,chickenfriedsteak.gives,available,5.99,,72,1,19,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5843cb45-feb2-4988-a6f3-38cc7fd0e2e8,gotto.gives,available,5.99,,54,6,6,name.com,,
 58499808-bd19-4047-83e9-030a234fbad8,somuchfor.gives,available,5.99,,46,0,11,name.com,,
 5849e52e-140d-473c-931e-542b2e0dbea6,letterofdismissal.gives,available,5.99,,44,1,19,name.com,,
-585e196c-f61a-42cc-8873-2c1b8bd1434c,fits.gives,available,5.99,,54,15,4,name.com,,
