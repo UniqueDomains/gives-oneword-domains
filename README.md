@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gives one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,595 domains · **Median ask:** $10.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/gives`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | events.gives       | premium   | $82.50    | —             | 68             | 37     | 6      | name.com  |
 | farmers.gives      | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
 | loans.gives        | premium   | $35.40    | $35.40        | 58             | 24     | 5      | namesilo  |
-| whynot.gives       | available | $5.99     | —             | 74             | 39     | 7      | name.com  |
+| whynot.gives       | available | $5.99     | —             | 74             | 44     | 7      | name.com  |
 | rocks.gives        | premium   | $82.50    | —             | 78             | 18     | 5      | name.com  |
 | tokens.gives       | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
 | breastcancer.gives | premium   | $250      | —             | 58             | 9      | 13     | name.com  |
@@ -81,9 +81,9 @@ print(df.head())
 | solutions.gives    | available | $5.99     | —             | 56             | 31     | 9      | name.com  |
 | inspiration.gives  | available | $5.99     | —             | 88             | 30     | 11     | name.com  |
 | rewards.gives      | available | $5.99     | —             | 62             | 30     | 7      | name.com  |
-| popup.gives        | available | $5.99     | —             | 84             | 29     | 6      | name.com  |
 | quotes.gives       | available | $5.99     | —             | 58             | 29     | 6      | name.com  |
 | blocks.gives       | available | $5.99     | —             | 53             | 29     | 6      | name.com  |
+| cams.gives         | available | $5.99     | —             | 52             | 29     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
