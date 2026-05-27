@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gives one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,595 domains · **Median ask:** $10.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/gives`  
 **Best for:** founders, investors, studios
 
@@ -71,16 +71,16 @@ print(df.head())
 | whynot.gives       | available | $5.99     | —             | 74             | 44     | 7      | name.com  |
 | rocks.gives        | premium   | $82.50    | —             | 78             | 18     | 5      | name.com  |
 | tokens.gives       | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
-| breastcancer.gives | premium   | $250      | —             | 58             | 9      | 13     | name.com  |
+| breastcancer.gives | premium   | $250      | —             | 58             | 11     | 13     | name.com  |
 | homes.gives        | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
 | verify.gives       | premium   | —         | —             | 80             | 42     | 6      | —         |
-| etc.gives          | available | $5.99     | —             | 58             | 34     | 3      | name.com  |
-| explorer.gives     | premium   | —         | —             | 78             | 28     | 8      | —         |
 | trends.gives       | available | $5.99     | —             | 60             | 32     | 6      | name.com  |
+| explorer.gives     | premium   | —         | —             | 78             | 28     | 8      | —         |
+| etc.gives          | available | $5.99     | —             | 58             | 32     | 3      | name.com  |
 | letsgo.gives       | available | $5.99     | —             | 57             | 31     | 7      | name.com  |
 | solutions.gives    | available | $5.99     | —             | 56             | 31     | 9      | name.com  |
-| inspiration.gives  | available | $5.99     | —             | 88             | 30     | 11     | name.com  |
 | rewards.gives      | available | $5.99     | —             | 62             | 30     | 7      | name.com  |
+| gods.gives         | available | $5.99     | —             | 72             | 29     | 4      | name.com  |
 | quotes.gives       | available | $5.99     | —             | 58             | 29     | 6      | name.com  |
 | blocks.gives       | available | $5.99     | —             | 53             | 29     | 6      | name.com  |
 | cams.gives         | available | $5.99     | —             | 52             | 29     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
