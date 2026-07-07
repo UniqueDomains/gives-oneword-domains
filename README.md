@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .gives one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,595 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,595 domains · **Median ask:** $10.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,595 domains · **Median ask:** $12.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/gives`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/gives`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GIVES one-word domain
 
 ### Files
 
-- `gives.csv` — public CSV extract (1,000 rows)
-- `gives.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `gives.csv`, public CSV extract (1,000 rows)
+- `gives.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.gives    | available | $5.99     | —             | 58             | 61     | 9      | name.com  |
-| events.gives       | premium   | $82.50    | —             | 68             | 37     | 6      | name.com  |
-| farmers.gives      | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
-| loans.gives        | premium   | $35.40    | $35.40        | 58             | 24     | 5      | namesilo  |
-| whynot.gives       | available | $5.99     | —             | 74             | 44     | 7      | name.com  |
-| rocks.gives        | premium   | $82.50    | —             | 78             | 18     | 5      | name.com  |
-| tokens.gives       | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
-| breastcancer.gives | premium   | $250      | —             | 58             | 11     | 13     | name.com  |
-| homes.gives        | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
-| verify.gives       | premium   | —         | —             | 80             | 42     | 6      | —         |
-| trends.gives       | available | $5.99     | —             | 60             | 32     | 6      | name.com  |
-| explorer.gives     | premium   | —         | —             | 78             | 28     | 8      | —         |
-| etc.gives          | available | $5.99     | —             | 58             | 32     | 3      | name.com  |
-| letsgo.gives       | available | $5.99     | —             | 57             | 31     | 7      | name.com  |
-| solutions.gives    | available | $5.99     | —             | 56             | 31     | 9      | name.com  |
-| rewards.gives      | available | $5.99     | —             | 62             | 30     | 7      | name.com  |
-| gods.gives         | available | $5.99     | —             | 72             | 29     | 4      | name.com  |
-| quotes.gives       | available | $5.99     | —             | 58             | 29     | 6      | name.com  |
-| blocks.gives       | available | $5.99     | —             | 53             | 29     | 6      | name.com  |
-| cams.gives         | available | $5.99     | —             | 52             | 29     | 4      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| awe.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| code.gives    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| new.gives     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| bag.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| receive.gives | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| zen.gives     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| bee.gives     | available | $5.99     | —             | high           | medium | 3      | name.com         |
+| beer.gives    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
+| dip.gives     | available | $5.99     | $40.99        | high           | low    | 3      | name.com         |
+| wife.gives    | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
+| due.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| angel.gives   | premium   | $82.50    | —             | high           | low    | 5      | name.com         |
+| Eid.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| gates.gives   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
+| fix.gives     | available | $5.99     | —             | medium         | low    | 3      | name.com         |
+| hotel.gives   | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap        |
+| hit.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| promo.gives   | premium   | $82.50    | —             | high           | low    | 5      | name.com         |
+| ill.gives     | available | $5.99     | —             | medium         | low    | 3      | name.com         |
+| watch.gives   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all single-word names on the .gives extension. The set includes concrete words, verbs, nouns, and abstract terms such as component.gives, evolve.gives, phrase.gives, and drawing.gives. For founders, the key question is whether the word reads naturally before “.gives” and feels memorable enough to own. For investors, the main test is whether the name has clear end-user relevance and a sensible ask relative to the rest of this selection. With a median ask of 10.38, the practical differences here are less about broad price dispersion and more about word quality, commercial clarity, and potential trademark friction.
+This selection covers one-word domain names on the .gives extension, a TLD naturally aligned with giving, causes, and gift-oriented branding. With 12,595 options and a median asking price near $12, the set ranges from plain nouns like "finals" and "criteria" to compound phrases like "midautumn" and "rolemodel." Because .gives is a newer extension, evaluating these names means weighing word clarity, pronounceability, and fit against traditional .com equivalents before committing.
 
-- Prefer words that read cleanly before .gives
-- Check whether the term is broad or narrowly literal
-- Compare ask price against memorability and use case
-- Avoid words with obvious trademark risk signals
+- Median asking price near $12 across 12,595 .gives domains
+- One-word, dictionary-based names like dogsick, finals, presents
+- Well suited for causes, gifts, and donation-driven brands
+- Updated daily to reflect the current .gives inventory
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
