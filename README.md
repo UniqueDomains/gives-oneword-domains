@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .gives one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,807 domains · **Median ask:** $9.23 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/gives`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| come.gives    | available | $5.99     | —             | high           | low    | 4      | name.com         |
 | ape.gives     | available | $5.99     | $40.99        | medium         | low    | 3      | name.com         |
 | code.gives    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
 | new.gives     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | Eid.gives     | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | promo.gives   | premium   | $82.50    | —             | high           | low    | 5      | name.com         |
 | fin.gives     | available | $5.99     | $40.99        | low            | low    | 3      | name.com         |
+| watch.gives   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVES One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
